@@ -1,0 +1,16 @@
+{
+  "name": "c-package",
+  "version": "1.0.0",
+  "description": "it contains sqlite3 and express packages",
+  "main": "ipaddr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "andrea-canepari",
+  "license": "ISC",
+  
+  "dependencies": {
+    "express": "^6.4.1",
+    "sqlite3": "^6.4.1"
+  }
+}
